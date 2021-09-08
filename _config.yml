@@ -37,7 +37,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "_data/comments/{options.slug}"
+  path                   : "_data/comments/{optionssc.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ryan V. Thorpe"
+  name             : "Ryan Thorpe"
   avatar           : "profile.png"
   bio              : "PhD student in computational neuroscience"
   location         : "Providence, Rhode Island"
