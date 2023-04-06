@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ryan Thorpe"
+title                    : "Ryan V. Thorpe"
 title_separator          : "-"
 name                     : &name "Ryan Thorpe"
 description              : &description "Computational Neuroscientist"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ryan Thorpe"
+  name             : "Ryan V. Thorpe"
   avatar           : "profile.png"
   bio              : "PhD student in computational neuroscience"
   location         : "Providence, Rhode Island"
