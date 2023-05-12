@@ -25,4 +25,4 @@ I'm interested in the **neural dynamics of sensory processing**, specifically, t
 - [SpectralEvents](https://github.com/jonescompneurolab/SpectralEvents)
 
 ## CV
-[DOWNLOAD HERE](https://rythorpe.github.io/cv/files/curriculum_vitae_thorpe.pdf)
+[DOWNLOAD HERE](https://rythorpe.github.io/files/curriculum_vitae_thorpe.pdf)
