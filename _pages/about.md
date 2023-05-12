@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm interested in the **neural dynamics of sensory processing**, specifically, the processes of **deviance detection** (DD) and **stimulus specific adaptation** (SSA) within the neocortex. These neural processes can be measured through a variety of recording modalities (e.g., **EEG/MEG**, **LFP/CSD**, and **ensemble spike rates**) across mammalian species as an amplification of novel/surprising sensory information and suppression of expected sensory information, respectively. With a focus on computational approaches, I use and help develop novel tools to test hypotheses on the underlying microcircuit mechanisms of DD, SSA, and other neural phenomena that help us better understand fundamental computational processes of the human brain.
+I'm interested in the **neural dynamics of sensory processing**, specifically, the processes of **deviance detection** (DD) and **stimulus specific adaptation** (SSA) within the neocortex. These neural processes can be measured through a variety of recording modalities (e.g., **EEG/MEG**, **LFP/CSD**, and **ensemble spike rates**) across mammalian species as an amplification of novel/surprising sensory information and suppression of expected sensory information, respectively. With a focus on computational approaches, I use and develop novel tools to test hypotheses on the underlying microcircuit mechanisms of DD, SSA, and other neural phenomena that help us better understand fundamental computational processes of the human brain.
 
 ## Research Questions
 - How do the cell types and laminar structure of a singular canonical
@@ -24,4 +24,5 @@ I'm interested in the **neural dynamics of sensory processing**, specifically, t
 - [HNN-core](https://github.com/jonescompneurolab/hnn-core)
 - [SpectralEvents](https://github.com/jonescompneurolab/SpectralEvents)
 
-[DOWNLOAD CV HERE](https://rythorpe.github.io/cv/files/curriculum_vitae_thorpe.pdf)
+## CV
+[DOWNLOAD HERE](https://rythorpe.github.io/cv/files/curriculum_vitae_thorpe.pdf)
