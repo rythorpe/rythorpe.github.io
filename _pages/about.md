@@ -25,4 +25,4 @@ I'm interested in the **neural dynamics of sensory perception**, specifically, t
 - [SpectralEvents](https://github.com/jonescompneurolab/SpectralEvents)
 
 ## CV
-[DOWNLOAD HERE](https://rythorpe.github.io/files/curriculum_vitae_thorpe.pdf)
+[DOWNLOAD HERE](https://rythorpe.github.io/files/cv_rvt.pdf)
