@@ -8,21 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I'm interested in the **neural dynamics of sensory perception**, specifically, the processes of **deviance detection** (DD) and **stimulus specific adaptation** (SSA) within the neocortex. These neural processes can be measured through a variety of recording modalities (e.g., **EEG/MEG**, **LFP/CSD**, and **ensemble spike rates**) across mammalian species as an amplification of novel/surprising sensory information and suppression of expected sensory information, respectively. With a focus on computational approaches, I use and develop novel tools to test hypotheses on the underlying microcircuit mechanisms of DD, SSA, and other neural phenomena that help us better understand fundamental computational processes of the human brain.
+I'm a theoretical neuroscientist interested in the neural dynamics underlying
+sensorimotor processing. From sensory inputs to motor outputs, a number of
+simple, yet nuanced, steps of neural computation lead to adaptive,
+fast-timescale behavior. I study the the dynamics and biological machinery of
+this computational process. I employ a number of computational methods to
+identify prominent neural phonemena that emerge within in vivo systems and then
+construct mathematical models to propose and test mechanisms giving rise to a
+particular phenomenon's emergence. Sometimes I approach this process in
+reverse, building a model from the ground-up to ask which neural phenomena, if
+any, emerge from a particular mechanism-of-interest. My goal is not to find
+absolute truth (although that would be nice), but to change your mind about the
+mechanisms and meaning of specific neural dynamics.
 
-## Research Questions
-- How do the cell types and laminar structure of a singular canonical
-  neocortical column give rise to DD and SSA, as measured through laminar
-  population spike rates in rodents and the EEG/MEG 'mismatch negativity' in
-  humans?
-- How do distinct cell assemblies emerge from and/or govern a neocortical
-  column's excitability to layer-specific thalamocortical drive?
-- How are transient neural oscillations (specifically 40 Hz gamma rhythms)
-  facilitated and depressed in response to novel/surprising afferent drive?
-
-## Tool Development
-- [HNN-core](https://github.com/jonescompneurolab/hnn-core)
-- [SpectralEvents](https://github.com/jonescompneurolab/SpectralEvents)
+## Interests
+* High versus low dimensional dynamics in recurrent sensorimotor representations
+* Recurrent network capacity versus temporal robustness
+* Short-term plasticity (STP)
+* Network mechanisms of saliency modulation (e.g., deviance detection)
 
 ## CV
 [DOWNLOAD HERE](https://raw.githubusercontent.com/rythorpe/cv/master/cv_rvt.pdf)
