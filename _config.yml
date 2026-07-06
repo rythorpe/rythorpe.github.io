@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Ryan V. Thorpe"
   avatar           : "ryan_thorpe_2025-2_cropped.jpg"
-  bio              : "Postdoctoral Fellow"
-  location         :
-  employer_1       : "University of Colorado Boulder (Applied Math)"
-  employer_2       : "University of Colorado Anschutz (Physiology and Biophysics)"
+  bio              : "Postdoctoral Fellow | Applied Math | Physiology and Biophysics"
+  location         : "University of Colorado Anschutz"
+  employer         : "University of Colorado Boulder"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Ev9HzXoAAAAJ&hl=en"
   email            :
