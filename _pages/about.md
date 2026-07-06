@@ -22,8 +22,8 @@ absolute truth (although that would be nice), but to change your mind about the
 mechanisms and meaning of specific neural dynamics.
 
 ## Interests
-* High versus low dimensional dynamics in recurrent sensorimotor representations
-* Recurrent network capacity versus temporal robustness
+* High- vs. low-dimensional dynamics in recurrent sensorimotor representations
+* Recurrent network capacity vs. temporal robustness
 * Short-term plasticity (STP)
 * Network mechanisms of saliency modulation (e.g., deviance detection)
 
