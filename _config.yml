@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ryan V. Thorpe"
 title_separator          : "-"
 name                     : &name "Ryan Thorpe"
-description              : &description "Computational Neuroscientist"
+description              : &description "Theoretical Neuroscientist"
 url                      : https://rythorpe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rythorpe/rythorpe.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ryan V. Thorpe"
   avatar           : "profile.png"
-  bio              : "PhD student in computational neuroscience | Jones and Moore Labs"
-  location         : "Providence, Rhode Island"
-  employer         : "Brown University"
+  bio              : "Postdoctoral Fellow"
+  location         : "Boulder, Colorado"
+  employer         : "University of Colorado Boulder / Anschutz"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Ev9HzXoAAAAJ&hl=en"
   email            :
