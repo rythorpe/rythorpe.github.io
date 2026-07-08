@@ -27,9 +27,9 @@ author:
   name             : "Ryan V. Thorpe, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Fellow | Theoretical Neuroscientist"
-  location         : "University of Colorado Boulder"
-  employer         : "University of Colorado Anschutz"
-  uri              : "https://rythorpe.github.io"
+  location         : 
+  employer         : "University of Colorado Boulder / Anschutz"
+  uri              : # website url
   email            : # email
 
   # Academic websites
