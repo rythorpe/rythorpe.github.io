@@ -21,11 +21,11 @@ any, emerge from a particular mechanism-of-interest. My goal is not to find
 absolute truth (although that would be nice), but to change your mind about the
 mechanisms and meaning of specific neural dynamics.
 
-## Interests
+## Current Interests
 * High- vs. low-dimensional dynamics in recurrent sensorimotor representations
 * Recurrent network capacity vs. temporal robustness
 * Short-term plasticity (STP)
-* Network mechanisms of saliency modulation (e.g., deviance detection)
+* Network mechanisms of salience modulation (e.g., deviance detection)
 
 ## CV
 [DOWNLOAD HERE](https://raw.githubusercontent.com/rythorpe/cv/master/cv_rvt.pdf)
